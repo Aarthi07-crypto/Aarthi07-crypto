@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aarthi07-crypto
+- 👋 Hi, I’m @keerthana07-crypto
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Aarthi07-crypto/Aarthi07-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+keerthana07-crypto/keerthana07-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
